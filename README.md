@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+```js
+require('main.js')
+```
+#### 📈 You can check my stats here
+![Wailrone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wailrone&show_icons=true&theme=dark)
 
-<!--
-**Wailrone/Wailrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🤩 My favorites languages
+![Wailrone's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wailrone&layout=compact&theme=dark)
 
-Here are some ideas to get you started:
+#### 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## You can also check my socials 🐲
+```js
+require('socials.js')
+```
+<a href="https://discord.com/users/393378313663676427"><img src="https://i.imgur.com/2p6wEQu.png" height="60px"></a>
+<a href="https://0rion.fr"><img src="https://i.imgur.com/YHFY4iI.png" height="60px"></a>
